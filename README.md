@@ -58,6 +58,7 @@ Implements a system for recognizing fouls in sports using multi-view image data.
 ## 🧱 Large Language Models in C++
 
 **[LLM from Scratch in C++](https://github.com/a-s-gorski/llm-from-scratch-cpp)**
+
 A minimal and modular C++ implementation of a transformer-based large language model inspired by the GPT architecture. The project focuses on performance and clarity, supporting training and inference on tiny Shakespeare datasets. It includes a CMake build system, benchmarking utilities, and detailed documentation for key components like tokenization, model architecture, training loop, and memory management.
 
 ---
