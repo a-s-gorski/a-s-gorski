@@ -1,7 +1,20 @@
-# Adam Górski - MLOps Engineer / Data Scientist
+**Data Scientist & MLOps Developer** based in Warsaw, Poland.  
+I specialize in end-to-end machine learning solutions: from model development and MLOps deployment to monitoring and evaluation of large-scale systems.
 
-I'm a machine learning operations engineer and researcher passionate about audio processing, computer vision, NLP, and recommender systems. Below are some of my featured projects:
+# 🔧 Technical Skills
 
+**Languages:** Python, C++  
+**ML & DL Frameworks:** PyTorch, TensorFlow, scikit-learn, MLflow, DVC  
+**MLOps & DevOps:** Kubeflow, Docker, Kubernetes, GitLab CI/CD, Azure DevOps  
+**Cloud Platforms:** Azure (AKS, AML), AWS (SageMaker)  
+**Backend Development:** FastAPI, Django  
+**Databases:** PostgreSQL, Oracle SQL  
+**Visualization & Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+**LLM Frameworks:** LangChain, LangGraph, RAGAS, Arize Phoenix  
+**Other Tools:** Kedro, Triton Inference Server, OpenCV, Librosa, Streamlit
+
+
+#  🧠 Personal Projects
 ---
 
 ## 🎵 Audio Source Separation
