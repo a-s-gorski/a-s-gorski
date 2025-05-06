@@ -1,4 +1,7 @@
+# 👋 Hi, I'm Adam Górski
+
 **Data Scientist & MLOps Developer** based in Warsaw, Poland.  
+
 I specialize in end-to-end machine learning solutions: from model development and MLOps deployment to monitoring and evaluation of large-scale systems.
 
 # 🔧 Technical Skills
