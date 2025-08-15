@@ -16,9 +16,23 @@ I specialize in end-to-end machine learning solutions: from model development an
 **LLM Frameworks:** LangChain, LangGraph, RAGAS, Arize Phoenix  
 **Other Tools:** Kedro, Triton Inference Server, OpenCV, Librosa, Streamlit
 
+---
+## 🎵 Live Demos
+**[Conseillify - Spotify Recommendations](https://recommend.tojest.dev/)**  
+Experience personalized music discovery powered by machine learning algorithms. Connect your Spotify account to get real-time recommendations based on your listening history using my hybrid clustering and collaborative filtering approach.
+---
+
 
 #  🧠 Personal Projects
 ---
+## 🎵 Music Information Retrieval
+**[Spotify Music Recommendation System](https://github.com/[your-username]/conseillify)**  
+**Conseillify** - Full-stack application providing personalized Spotify music recommendations using clustering-based algorithms and collaborative filtering. Features JWT authentication, React frontend, Spring Boot auth service, FastAPI ML backend, and hybrid recommendation engine combining TF-IDF vectorization with PostgreSQL pgvector and MongoDB co-occurrence analysis.
+---
+
+🎵 Conseillify - Spotify Recommendations
+Experience personalized music discovery at: https://recommend.tojest.dev/
+
 
 ## 🎵 Audio Source Separation
 
