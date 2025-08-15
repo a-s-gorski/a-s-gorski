@@ -26,7 +26,7 @@ Experience personalized music discovery powered by machine learning algorithms. 
 #  🧠 Personal Projects
 ---
 ## 🎵 Music Information Retrieval
-**[Spotify Music Recommendation System](https://github.com/[your-username]/conseillify)**  
+**[Spotify Music Recommendation System](https://github.com/a-s-gorski/spotify-recommender-engine)**  
 **Conseillify** - Full-stack application providing personalized Spotify music recommendations using clustering-based algorithms and collaborative filtering. Features JWT authentication, React frontend, Spring Boot auth service, FastAPI ML backend, and hybrid recommendation engine combining TF-IDF vectorization with PostgreSQL pgvector and MongoDB co-occurrence analysis.
 ---
 
